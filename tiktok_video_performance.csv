@@ -1,0 +1,6 @@
+Video_ID,User_ID,Username,Video_Title,Category,Likes,Comments,Shares,Views,Upload_Date,Video_Length,Hashtags,User_Followers,User_Following,User_Likes
+101,1,user1,Dance Challenge,Dance,1500,120,300,50000,2024-08-01,30,#dance,1500,300,5000
+102,2,user2,Funny Skit,Comedy,2300,200,400,70000,2024-08-02,45,#funny,2000,500,6000
+103,3,user3,Tutorial,Tutorial,1200,150,250,40000,2024-08-03,60,#tutorial,1200,200,3000
+104,4,user4,Viral Dance,Dance,4500,500,600,90000,2024-08-04,30,#viral,1800,400,7000
+105,5,user5,Comedy Sketch,Comedy,1800,180,210,50000,2024-08-05,45,#comedy,1500,350,4000
